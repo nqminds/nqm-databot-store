@@ -23,11 +23,11 @@ In the databot host configuration file, add the folder path using the `databotSt
 Debugging works out-of-the-box for [Visual Studio Code](http://code.visualstudio.com), but should be trivial to support in other
 debuggers/IDEs.
 
-Run the host using the `--debug` option (note, your databot host can be installed anywhere on your machine, as long as
+Run the host using the `--debugBreak` option (note, your databot host can be installed anywhere on your machine, as long as
 the configuration `databotStorePath` is set correctly as outlined above). 
 
 ```
-./nqm-databot-host.js --config ./my-config.json --debug
+./nqm-databot-host.js --config ./my-config.json --debugBreak
 ```  
 
 The databot host will start and enter the idle state waiting for a databot instance to be assigned. Using the nqm toolbox,
