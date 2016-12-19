@@ -1,11 +1,11 @@
 {
   "name": "nqm-databot-store",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  },  
+  },
   "author": "toby.ealden@gmail.com",
   "license": "ISC",
   "dependencies": {
@@ -38,5 +38,5 @@
     "yauzl": "^2.6.0",
     "yazl": "^2.4.1"
   },
-  "devDependencies": {}  
+  "devDependencies": {}
 }
