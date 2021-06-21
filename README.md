@@ -1,4 +1,11 @@
-# nqm-databot-store
+# [DEPRECATED] nqm-databot-store
+
+**DEPRECATED: replaced by @nqminds/nqm-databot-store in nqminds/nqm-databots mono-repo**
+
+New GitHub Code link: [@nqminds/nqm-databot-store](https://github.com/nqminds/nqm-databots/tree/master/packages/nqm-databot-store)
+
+New NPM link: [@nqminds/nqm-databot-store](https://www.npmjs.com/package/@nqminds/nqm-databot-store)
+
 The default databot store.
 
 ## install
